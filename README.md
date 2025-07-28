@@ -14,7 +14,7 @@ Perfect for learning ""network scanning basics"" and ""socket programming"".
 
 ---
 
-##  Demo
+##  Demo, Installation and Usage
 ```bash
 === Simple Port Scanner ===
 Enter target (IP or hostname): scanme.nmap.org
