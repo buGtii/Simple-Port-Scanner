@@ -1,20 +1,20 @@
-# 🌐 Simple Port Scanner
+# Simple Port Scanner
 
 A Python-based multi-threaded port scanner with banner grabbing and color-coded output.  
-Perfect for learning **network scanning basics** and **socket programming**.
+Perfect for learning ""network scanning basics"" and ""socket programming"".
 
 ---
 
-## 🚀 Features
-- **Target IP/Hostname scanning**
-- **Custom port range input**
-- **Multi-threaded for speed**
-- **Color-coded output** (Open = Green, Closed = Red)
-- **Banner grabbing** for identifying running services
+##  Features
+- "Target IP/Hostname scanning""
+- ""Custom port range input""
+- ""Multi-threaded for speed""
+- ""Color-coded output"" (Open = Green, Closed = Red)
+- ""Banner grabbing"" for identifying running services
 
 ---
 
-## 📷 Demo
+##  Demo
 ```bash
 === Simple Port Scanner ===
 Enter target (IP or hostname): scanme.nmap.org
@@ -27,7 +27,7 @@ Enter end port: 80
 [+] Port 80 is OPEN --> No banner
 
 
-#Installation & Usage
+## Installation & Usage
 
 #1. Clone this repository
 
