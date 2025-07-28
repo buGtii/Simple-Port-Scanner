@@ -26,33 +26,33 @@ Enter end port: 80
 [-] Port 25 is CLOSED
 [+] Port 80 is OPEN --> No banner
 
-🛠 Installation & Usage
-1. Clone this repository
-bash
-Copy
-Edit
+
+#Installation & Usage
+
+#1. Clone this repository
+
 git clone https://github.com/your-username/simple-port-scanner.git
 cd simple-port-scanner
-2. Install dependencies
-bash
-Copy
-Edit
+
+#2. Install dependencies
+
 pip install colorama
-3. Run the tool
-bash
-Copy
-Edit
+
+#3. Run the tool
+
 python port_scanner.py
 
-⚠️ Legal Disclaimer
+
+
+#⚠️ Legal Disclaimer
 This project is created for educational purposes only.
 Scanning networks without permission is illegal.
 Use only on hosts you own or have explicit authorization for.
 
-🤝 Contributing
+#🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
-📜 License
+#📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
